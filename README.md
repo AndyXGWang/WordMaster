@@ -20,11 +20,12 @@ Word大师 Ionic Android版本开源项目
 >移动办公中的好帮手,相当于一部智能移动的生产力百科全书
 
 # 项目使用插件
--cordova-plugin-console
--cordova-plugin-extension
--cordova-plugin-googleplayservices
--cordova-plugin-inappbrowser
--cordova-plugin-whitelist
+
+cordova-plugin-console
+cordova-plugin-extension
+cordova-plugin-googleplayservices
+cordova-plugin-inappbrowser
+cordova-plugin-whitelist
 
 # 程序体验地址
 IOS版本     [Word大师APP](https://itunes.apple.com/us/app/word-da-shi-office-jiao-cheng/id1167286394?l=zh&ls=1&mt=8)
