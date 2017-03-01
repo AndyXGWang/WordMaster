@@ -29,11 +29,13 @@ cordova-plugin-whitelist
 
 # 程序体验地址
 IOS版本     [Word大师APP](https://itunes.apple.com/us/app/word-da-shi-office-jiao-cheng/id1167286394?l=zh&ls=1&mt=8)
-Android版本 [Word大师APP](http://fir.im/6b9k)
+Android版本 [Word大师APP](http://shouji.baidu.com/software/11010446.html)
 
 # 版权所有
 版权归王夫子所有。
 Website: [http://www.wangfz.com/](http://www.wangfz.com/)
 
 # 联系作者
-Email: info@wangfz.com
+Email: 
+wangfzcom@163.com
+info@wangfz.com
